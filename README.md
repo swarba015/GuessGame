@@ -26,7 +26,8 @@ Python 3.x
 Basic understanding of Python and command-line interaction
 
 ## Installation
-No additional installation is required. Just clone the repository and run the script in a Python environment.
+No additional installation is required. 
+* clone the repository git clone https://github.com/swarba015/GuessGame/tree/main
 
 ## Usage
 To play the game, execute the main() function in the script. Follow the on-screen prompts to interact with the game.
